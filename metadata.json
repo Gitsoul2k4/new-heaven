@@ -1,0 +1,6 @@
+{
+  "name": "New Haven",
+  "description": "English Is A World — Live in New Haven, an experiential English life simulation where language drives actions, relationships, and consequences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

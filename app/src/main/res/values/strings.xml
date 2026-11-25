@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">New Haven</string>
+    <string name="tagline_live_it">Live it. Don\'t study it.</string>
+    <string name="nav_city">New Haven</string>
+    <string name="nav_memories">Memories</string>
+    <string name="nav_life">Life</string>
+    <string name="sample_ai_notice">Sample AI mode — enable Firebase AI Logic for live Gemini NPC conversations.</string>
+    <string name="observe_cues_label">Observe Social Cues</string>
+    <string name="say_your_own_hint">Say it in your own English...</string>
+    <string name="send_action">Say it</string>
+    <string name="sense_clue_button">Need a clue?</string>
+    <string name="reveal_meaning_button">Reveal meaning</string>
+    <string name="end_day_button">Finish Day</string>
+    <string name="next_day_button">Wake up to Next Day</string>
+    <string name="reset_world_button">Start Fresh in New Haven</string>
+</resources>
